@@ -1,1 +1,1 @@
-First task of software lab.
+First task of software engineering lab.
