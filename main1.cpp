@@ -18,7 +18,7 @@ int main() {
      } 
    sort(a,a+c1);
    cout<<a[c1-1]+1-a[0]<<"\n";
-
+     cout<<"Hello world";
    }
 
     return 0;
